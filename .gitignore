@@ -48,5 +48,5 @@ out/*
 #dotnet
 *.sln
 *.csproj
-/bin
-/obj
+**/bin
+**/obj
