@@ -44,3 +44,9 @@ out/*
 *.ilg
 *.ind
 *.ist
+
+#dotnet
+*.sln
+*.csproj
+/bin
+/obj
