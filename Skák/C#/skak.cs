@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MyApplication
+namespace Skak
 {
     class Program
     {
