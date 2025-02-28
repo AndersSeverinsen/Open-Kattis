@@ -3,6 +3,7 @@
 
 # Ignore build directory
 out/*
+*.o
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
